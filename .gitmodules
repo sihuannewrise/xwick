@@ -1,0 +1,6 @@
+[submodule "app/xpayrequest"]
+	path = app/xpayrequest
+	url = git@github.com:sihuannewrise/xpayrequest.git
+[submodule "app/xtelecom"]
+	path = app/xtelecom
+	url = git@github.com:sihuannewrise/xtelecom.git
